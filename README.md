@@ -12,6 +12,19 @@ The repository contains scripts to generate an ebook in the EPUB format from the
 
 The book is available for pre-order at [Amazon.com](https://www.amazon.com/Never-Say-You-Cant-Survive-ebook/dp/B08JK8XD1N) or [Indiebound](https://www.indiebound.org/book/9781250800015).
 
+## How to run
+
+Dependencies: `ruby`, `wget`, `pandoc`
+
+```
+git clone https://github.com/captn3m0/never-say-you-cant-survive.git
+cd never-say-you-cant-survive
+bundle install
+./generate.sh
+```
+
+Your generated ebook should be available at never-say-you-cant-survive.epub
+
 ## Contents
 
 <details><summary>Section I - Introduction</summary><ol>
