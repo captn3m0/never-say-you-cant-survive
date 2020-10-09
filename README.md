@@ -59,3 +59,7 @@ Your generated ebook should be available at never-say-you-cant-survive.epub
 ## License
 
 Licensed under the [MIT License](https://nemo.mit-license.org/). See LICENSE file for details.
+
+## Other Projects
+
+A list of my other EBook generation projects: https://captnemo.in/ebooks/.
