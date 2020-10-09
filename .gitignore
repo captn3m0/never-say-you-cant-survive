@@ -1,0 +1,6 @@
+vendor/
+*.epub
+html/*
+chapters/*
+*.html
+*.epub
