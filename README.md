@@ -1,4 +1,4 @@
-# Never Say You Can’t Survive
+# Never Say You Can’t Survive ![in progress](https://img.shields.io/badge/status-in--progress-orange)
 
 ![Book Cover](cover.jpg)
 
