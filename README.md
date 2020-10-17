@@ -54,6 +54,7 @@ Your generated ebook should be available at never-say-you-cant-survive.epub
 <li>The Unexamined Story Is Not Worth Writing</li>
 <li>Weirdness Gives Me the Strength To Keep Going</li>
 <li>When Is It Okay To Write About Someone Else’s Culture or Experience?</li>
+<li>Find Your Voice and Make It LOUD</li>
 </ol></details>
 
 ## License

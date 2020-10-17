@@ -4,10 +4,11 @@ skip_classes = ['ebook-link-wrapper']
 
 section_headers = []
 
-section_headers[0] = "Section I - Introduction"
-section_headers[4] = "Section II - What’s A Story, and How Do You Find One?"
-section_headers[10] = "Section III - Your Feelings are Valid—and Powerful"
-section_headers[15] = "Section IV - What We Write About When We Write About Spaceships"
+section_headers[0] = "Section I: Introduction"
+section_headers[4] = "Section II: What’s A Story, and How Do You Find One?"
+section_headers[10] = "Section III: Your Feelings are Valid—and Powerful"
+section_headers[15] = "Section IV: What We Write About When We Write About Spaceships"
+section_headers[20] = "Section V: How to Use Writerly Tricks to Gain Unstoppable Powers"
 
 for i in Dir.glob('html/*.html')
   html = ""
