@@ -20,3 +20,7 @@ do
 done < "$INPUT_FILE"
 
 bundle exec ruby generate.rb
+
+if [ -f /.dockerenv ]; then
+  cp never-say-you-cant-survive.epub /output
+fi

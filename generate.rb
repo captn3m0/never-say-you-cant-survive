@@ -52,7 +52,9 @@ for i in Dir.glob('html/*.html')
     end
   end
   fn = File.basename(i)
-  File.write("chapters/#{fn}", html)
+  File.open("chapters/#{fn}", "w:UTF-8") do |f|
+    f.write html
+  end
 end
 
 html = ""
@@ -61,8 +63,7 @@ File.open("urls.txt").each_with_index do |url, index|
   unless section_headers[index].nil?
     html += "<h1>#{section_headers[index]}</h1>\n\n"
   end
-  html += File.read("chapters/#{title}.html")
-  html += "\n\n"
+  html += File.open("chapters/#{title}.html", "r:UTF-8", &:read)
 end
 
 File.write("never-say-you-cant-survive.html", html)
