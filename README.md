@@ -14,6 +14,15 @@ The book is available for pre-order at [Amazon.com](https://www.amazon.com/Never
 
 ## How to run
 
+### With Docker
+
+```bash
+docker pull captn3m0/never-say-you-cant-survive
+docker run --rm --volume "$(pwd):/output" captn3m0/never-say-you-cant-survive:latest
+```
+
+### Without Docker
+
 Dependencies: `ruby`, `wget`, `pandoc`
 
 ```
