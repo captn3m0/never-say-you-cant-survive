@@ -71,6 +71,7 @@ Your generated ebook should be available at never-say-you-cant-survive.epub
 <details><summary>Section V: How to Use Writerly Tricks to Gain Unstoppable Powers</summary><ol>
 <li>Find Your Voice and Make It LOUD</li>
 <li>A Strong Narrator Can Help You Weave a Spell of Protection</li>
+<li>When the World Goes Loopy, You Can Become a Master of Time and Space</li>
 </ol></details>
 
 ## License
