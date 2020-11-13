@@ -72,6 +72,7 @@ Your generated ebook should be available at never-say-you-cant-survive.epub
 <li>Find Your Voice and Make It LOUD</li>
 <li>A Strong Narrator Can Help You Weave a Spell of Protection</li>
 <li>When the World Goes Loopy, You Can Become a Master of Time and Space</li>
+<li>Irony Doesn’t Have To Be the Enemy of Feels. They Can Team Up, In Fact!</li>
 </ol></details>
 
 ## License
