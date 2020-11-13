@@ -21,6 +21,17 @@ docker pull captn3m0/never-say-you-cant-survive
 docker run --rm --volume "$(pwd):/output" captn3m0/never-say-you-cant-survive:latest
 ```
 
+The generated file will get created in your current directory.
+
+If you are on Windows, instead run:
+
+```
+docker pull captn3m0/never-say-you-cant-survive
+docker run --rm --volume "//c/:/output" captn3m0/never-say-you-cant-survive:latest
+```
+
+and the generated ebook will be created in the `C:\never-say-you-cant-survive.epub`.
+
 ### Without Docker
 
 Dependencies: `ruby`, `wget`, `pandoc`
@@ -81,4 +92,4 @@ Licensed under the [MIT License](https://nemo.mit-license.org/). See LICENSE fil
 
 ## Other Projects
 
-A list of my other EBook generation projects: https://captnemo.in/ebooks/.
+A list of my other EBook generation projects: <https://captnemo.in/ebooks/>.
