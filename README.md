@@ -84,6 +84,7 @@ Your generated ebook should be available at never-say-you-cant-survive.epub
 <li>A Strong Narrator Can Help You Weave a Spell of Protection</li>
 <li>When the World Goes Loopy, You Can Become a Master of Time and Space</li>
 <li>Irony Doesn’t Have To Be the Enemy of Feels. They Can Team Up, In Fact!</li>
+<li>Write The Book That Only You Could Have Written</li>
 </ol></details>
 
 ## License
