@@ -1,4 +1,4 @@
-# Never Say You Can’t Survive ![in progress](https://img.shields.io/badge/status-in--progress-orange) ![MIT license](https://img.shields.io/badge/license-MIT-brightgreen)
+# Never Say You Can’t Survive ![in progress](https://img.shields.io/badge/status-complete-green) ![MIT license](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ![Book Cover](cover.jpg)
 
