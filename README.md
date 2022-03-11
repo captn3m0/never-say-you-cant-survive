@@ -10,7 +10,7 @@ From author Charlie Jane Anders, Never Say You Can’t Survive is a how-to book 
 
 The repository contains scripts to generate an ebook in the EPUB format from the posts at tor.com. More details at <https://www.tor.com/series/never-say-you-cant-survive-by-charlie-jane-anders/>.
 
-Support the author by getting the book at [Amazon.com](https://www.amazon.com/Never-Say-You-Cant-Survive-ebook/dp/B08JK8XD1N), [Indiebound](https://www.indiebound.org/book/9781250800015), [Barnes and Noble](https://www.barnesandnoble.com/w/never-say-you-cant-survive-charlie-jane-anders/1137655286?ean=9781250800015). Audiobook coming soon [on Audible](https://www.amazon.com/Never-Say-You-Cant-Survive/dp/B08XDQGS5Q/).
+Support the author by getting the book at [Amazon.com](https://www.amazon.com/Never-Say-You-Cant-Survive-ebook/dp/B08JK8XD1N), [Indiebound](https://www.indiebound.org/book/9781250800015), [Barnes and Noble](https://www.barnesandnoble.com/w/never-say-you-cant-survive-charlie-jane-anders/1137655286?ean=9781250800015). Audiobook available on [Audible](https://www.amazon.com/Never-Say-You-Cant-Survive/dp/B08XDQGS5Q/).
 
 ## How to run
 
