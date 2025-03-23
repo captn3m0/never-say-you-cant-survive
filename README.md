@@ -49,45 +49,40 @@ Your generated ebook should be available at never-say-you-cant-survive.epub
 
 (All links to Tor.com)
 
-<details><summary>Section I - Introduction</summary><ol>
-<li markdown=1>[How To Make Your Own Imaginary Friends][c1]</li>
-<li markdown=1>[Imposter Syndrome Is Just Part of Being a Writer][c2]</li>
-<li markdown=1>[Embrace Uncertainty: The Joy of Making a Giant Mess][c3]</li>
-<li markdown=1>[Everything Is Broken! What Should I Write About?][c4]</li>
-</ol></details>
+### Section I - Introduction
+- [How To Make Your Own Imaginary Friends][c1]
+- [Imposter Syndrome Is Just Part of Being a Writer][c2]
+- [Embrace Uncertainty: The Joy of Making a Giant Mess][c3]
+- [Everything Is Broken! What Should I Write About?][c4]
 
-<details><summary>Section II - What’s A Story, and How Do You Find One?</summary><ol>
-<li markdown=1>[Don’t Be Afraid to Go on Lots of First Dates With Story Ideas][c5]</li>
-<li markdown=1>[The Secret to Storytelling? Just One Good Scene, and Then Another and Another][c6]</li>
-<li markdown=1>[The Most Powerful Thing a Story Can Do Is Show How People Change][c7]</li>
-<li markdown=1>[A Good Plot Is Made Out of Two Things][c8]</li>
-<li markdown=1>[How to Tell a Thrilling Story Without Breaking Your Own Heart][c9]</li>
-<li markdown=1>[The Ending Is The Beginning][c10]</li>
-</ol></details>
+### Section II - What’s A Story, and How Do You Find One?
+- [Don’t Be Afraid to Go on Lots of First Dates With Story Ideas][c5]
+- [The Secret to Storytelling? Just One Good Scene, and Then Another and Another][c6]
+- [The Most Powerful Thing a Story Can Do Is Show How People Change][c7]
+- [A Good Plot Is Made Out of Two Things][c8]
+- [How to Tell a Thrilling Story Without Breaking Your Own Heart][c9]
+- [The Ending Is The Beginning][c10]
 
-<details><summary>Section III - Your Feelings are Valid—and Powerful</summary><ol>
-<li markdown=1>[Hold On To Your Anger. It’s a Storytelling Goldmine][c11]</li>
-<li markdown=1>[People Are Only as Interesting as Their Relationships][c12]</li>
-<li markdown=1>[One Easy Way to Feel Better About the World][c13]</li>
-<li markdown=1>[Revision Is the Process of Turning Fake Emotion Into Real Emotion][c14]</li>
-<li markdown=1>[Twelve Ways to Keep the Fun of Writing Alive][c15]</li>
-</ol></details>
+### Section III - Your Feelings are Valid—and Powerful
+- [Hold On To Your Anger. It’s a Storytelling Goldmine][c11]
+- [People Are Only as Interesting as Their Relationships][c12]
+- [One Easy Way to Feel Better About the World][c13]
+- [Revision Is the Process of Turning Fake Emotion Into Real Emotion][c14]
+- [Twelve Ways to Keep the Fun of Writing Alive][c15]
 
-<details><summary>Section IV - What We Write About When We Write About Spaceships</summary><ol>
-<li markdown=1>[How to Write a Political Story Without Falling on Your Face][c16]</li>
-<li markdown=1>[Good Worldbuilding Shows How Things Could Be Different][c17]</li>
-<li markdown=1>[The Unexamined Story Is Not Worth Writing][c18]</li>
-<li markdown=1>[Weirdness Gives Me the Strength To Keep Going][c19]</li>
-<li markdown=1>[When Is It Okay To Write About Someone Else’s Culture or Experience?][c20]</li>
-</ol></details>
+### Section IV - What We Write About When We Write About Spaceships
+- [How to Write a Political Story Without Falling on Your Face][c16]
+- [Good Worldbuilding Shows How Things Could Be Different][c17]
+- [The Unexamined Story Is Not Worth Writing][c18]
+- [Weirdness Gives Me the Strength To Keep Going][c19]
+- [When Is It Okay To Write About Someone Else’s Culture or Experience?][c20]
 
-<details><summary>Section V: How to Use Writerly Tricks to Gain Unstoppable Powers</summary><ol>
-<li markdown=1>[Find Your Voice and Make It LOUD][c21]</li>
-<li markdown=1>[A Strong Narrator Can Help You Weave a Spell of Protection][c22]</li>
-<li markdown=1>[When the World Goes Loopy, You Can Become a Master of Time and Space][c23]</li>
-<li markdown=1>[Irony Doesn’t Have To Be the Enemy of Feels. They Can Team Up, In Fact!][c24]</li>
-<li markdown=1>[Write The Book That Only You Could Have Written][c25]</li>
-</ol></details>
+### Section V: How to Use Writerly Tricks to Gain Unstoppable Powers
+- [Find Your Voice and Make It LOUD][c21]
+- [A Strong Narrator Can Help You Weave a Spell of Protection][c22]
+- [When the World Goes Loopy, You Can Become a Master of Time and Space][c23]
+- [Irony Doesn’t Have To Be the Enemy of Feels. They Can Team Up, In Fact!][c24]
+- [Write The Book That Only You Could Have Written][c25]
 
 ## License
 
